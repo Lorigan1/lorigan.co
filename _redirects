@@ -1,0 +1,2 @@
+# Redirect www to apex domain
+https://www.lorigan.co/* https://lorigan.co/:splat 301
