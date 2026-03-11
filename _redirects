@@ -1,2 +1,2 @@
-# Redirect www to apex domain
-https://www.lorigan.co/* https://lorigan.co/:splat 301
+# Add any path redirects here
+# /old-page /new-page 301
